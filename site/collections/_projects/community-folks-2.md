@@ -1,7 +1,7 @@
 ---
 date: 2021-09-01 03:20:00
 title: Travander
-subtitle: 'Community Head '
+subtitle: Community Head & Founding Team Member
 image: /uploads/travander-logo.png
 ---
 ## Travander

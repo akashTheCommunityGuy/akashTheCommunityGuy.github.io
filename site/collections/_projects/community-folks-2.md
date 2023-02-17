@@ -8,7 +8,7 @@ image: /uploads/travander-ii.png
 
 ##### March, 2021 - present
 
-### Community Head and part of the founding team
+### Community Head and Founding Team Member
 
 * Created the entire roadmap for the community part of the brand strategy
 * Worked with the founders to ensure the community and brand visions are aligned

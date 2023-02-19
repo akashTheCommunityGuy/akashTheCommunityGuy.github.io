@@ -1,9 +1,0 @@
-footer_menu__settings:
-  menu__items:
-    - title: Home
-      url: /
-    - title: Projects
-      url: /projects/
-    - title: About
-      url: /about/
-copyright_text_html: '<p>Connect with me: akash21j94@gmail.com</p>'

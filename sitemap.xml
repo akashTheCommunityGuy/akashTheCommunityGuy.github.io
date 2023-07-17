@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:6060/about/</loc>
-<lastmod>2023-06-20T19:25:13+05:30</lastmod>
+<lastmod>2023-07-17T17:40:59+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:6060/</loc>
-<lastmod>2023-06-20T19:25:13+05:30</lastmod>
+<lastmod>2023-07-17T17:40:59+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:6060/projects/</loc>
-<lastmod>2023-06-20T19:25:13+05:30</lastmod>
+<lastmod>2023-07-17T17:40:59+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:6060/project/freelance</loc>
